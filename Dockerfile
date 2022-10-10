@@ -1,1 +1,1 @@
-FROM selenium/node-chrome
+FROM selenium/standalone-chrome
